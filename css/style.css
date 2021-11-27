@@ -16,20 +16,6 @@
   max-width: 1702;
   min-height: 814px;
 }
-.color-a {
-  width: 352.03px;
-  height: 814px;
-  background: url(../img/color-a.png);
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: absolute;
-  top: 0px;
-  right: 0px;
-  left: 0px;
-  borde
-
-  
-}
 
 .main-nav {
   width: 1205px;
@@ -305,4 +291,3 @@
   z-index: 1;
   border-radius: 1px;
 }
-
