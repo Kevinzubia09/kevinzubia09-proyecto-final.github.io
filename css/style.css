@@ -1,4 +1,3 @@
-<<<<<<< inicio-de-proyecto
 * {
   box-sizing: border-box;
   padding: 0;
@@ -292,7 +291,6 @@
   z-index: 1;
   border-radius: 1px;
 }
-=======
 @font-face {
     font-family: 'SF UI Display Ultralight';
     font-style: normal;
@@ -368,4 +366,3 @@
   body {
     font-family:sf;
   }
->>>>>>> main
