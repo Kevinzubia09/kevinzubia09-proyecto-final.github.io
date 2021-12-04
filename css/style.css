@@ -5,11 +5,11 @@
 }
 .designer {
   position: absolute;
-  width: 600px;
-  height: 195px;
+  width: 825px;
+  height: 198px;
   left: 199px;
-  top: 300px;
-
+  top: 329px;
+  font-family: SF;
   font-style: normal;
   font-weight: 300;
   font-size: 55px;
@@ -19,7 +19,7 @@
   font-family: SF UI Display;
   color: #ffffff;
 }
-font-family: SF UI Display;
+
 .tilde {
   position: absolute;
   width: 29px;
@@ -154,8 +154,8 @@ font-family: SF UI Display;
 }
 .pa-2-2 {
   position: absolute;
-  width: 600px;
-  height: 104px;
+  width: 534px;
+  height: 78px;
   left: 925px;
   top: 942px;
   font-style: normal;
@@ -169,7 +169,6 @@ font-family: SF UI Display;
 }
 .pa-2-3 {
   position: absolute;
-  width: 600px;
   height: 52px;
   left: 925px;
   top: 1072px;
@@ -306,6 +305,7 @@ font-family: SF UI Display;
   top: 40px;
   font-style: normal;
   font-weight: bold;
+  font-weight: 700px;
   font-size: 26px;
   line-height: 31px;
   display: flex;
@@ -330,7 +330,7 @@ font-family: SF UI Display;
 }
 #link-c {
   position: absolute;
-  width: 250px;
+  width: 203px;
   height: 21px;
   left: 480px;
   top: 43px;
@@ -347,7 +347,7 @@ font-family: SF UI Display;
 
 #link-d {
   position: absolute;
-  width: 51px;
+  width: 52px;
   height: 26px;
   left: 1250px;
   top: 39px;
@@ -454,6 +454,7 @@ font-family: SF UI Display;
   text-decoration: auto;
   left: 45px;
 }
+
 
 @font-face {
   font-family: "SF UI Display Ultralight";
