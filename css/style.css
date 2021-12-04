@@ -1,2 +1,363 @@
+<<<<<<< Updated upstream
+=======
+.designer {
+  position: absolute;
+  width: 825px;
+  height: 198px;
+  left: 199px;
+  top: 329px;
+
+  font-family: SF;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 55px;
+  line-height: 66px;
+  display: flex;
+  align-items: flex-end;
+
+  color: #ffffff;
+}
+.comilla {
+  position: absolute;
+  width: 29px;
+  height: 66px;
+  left: 1px;
+  top: 3px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 55px;
+  line-height: 66px;
+  display: flex;
+  align-items: flex-end;
+
+  color: #ffffff;
+}
+
+.parte-dos {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.logos {
+  background: url(../img/Logos.png);
+  position: absolute;
+  width: 1232px;
+  height: 103px;
+  left: 235px;
+  top: 1213px;
+}
+.parte-dos {
+  background-color: #f2f2f2;
+  width: 100%;
+  height: 500px;
+  z-index: -1;
+  margin: 0 auto;
+}
+.pa-2-1 {
+  position: absolute;
+  width: 516px;
+  height: 105px;
+  left: 243px;
+  top: 936px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 29px;
+  line-height: 35px;
+  display: flex;
+  align-items: flex-end;
+  color: #383838;
+}
+.pa-2-2 {
+  position: absolute;
+  width: 534px;
+  height: 78px;
+  left: 925px;
+  top: 942px;
+  font-style: normal;
+  font-weight: 100;
+  font-size: 16px;
+  line-height: 26px;
+  display: flex;
+  align-items: center;
+  color: #848484;
+}
+.pa-2-3 {
+  position: absolute;
+  width: 534px;
+  height: 52px;
+  left: 925px;
+  top: 1072px;
+  font-style: normal;
+  font-weight: 100;
+  font-size: 16px;
+  line-height: 26px;
+  display: flex;
+  align-items: center;
+  color: #848484;
+}
+.bo-2-1 {
+  position: absolute;
+  width: 160px;
+  height: 45px;
+  left: 243px;
+  top: 1079px;
+  background: #5a9dea;
+  border: 1px solid #5a9dea;
+  box-sizing: border-box;
+  border-radius: 5px;
+}
+.bo-2-2 {
+  position: absolute;
+  width: 161px;
+  height: 45px;
+  left: 423px;
+  top: 1079px;
+  border: 1px solid #5a9dea;
+  box-sizing: border-box;
+  border-radius: 5px;
+}
+.bo-2-1-co {
+  position: absolute;
+  width: 84px;
+  height: 19px;
+  left: 38px;
+  top: 13px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 19px;
+  display: flex;
+  align-items: flex-end;
+  color: #ffffff;
+  text-decoration: auto;
+}
+.bo-2-2-co {
+  position: absolute;
+  width: 82px;
+  height: 19px;
+  left: 39px;
+  top: 13px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 19px;
+  display: flex;
+  align-items: flex-end;
+  color: #5a9dea;
+  text-decoration: auto;
+}
+
+.main {
+  background-color: #5ca1f1;
+  width: 100%;
+  height: 814px;
+  z-index: -1;
+  margin: 0 auto;
+}
+
+.alien {
+  width: 323px;
+  height: 340px;
+  background: url(../img/Alien.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+  top: 271px;
+  right: 0px;
+  left: 1041px;
+}
+
+.color.a {
+  background: url(../img/color-a.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+  max-width: 1802px;
+  min-width: 1702px;
+  height: 881.37px;
+  left: -269.62px;
+  top: 0px;
+  background: rgba(85, 148, 221, 0.441236);
+  mix-blend-mode: normal;
+  opacity: 0.6;
+}
+
+.line {
+  background: url(../img/line.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+  width: 1205px;
+  height: 3px;
+  left: 325px;
+  top: 40px;
+  mix-blend-mode: normal;
+  opacity: 0.2;
+  border: 1px solid #ffffff;
+}
+.linee {
+  position: absolute;
+  width: 3px;
+  height: 107px;
+  left: 0px;
+  top: 500px;
+  background: #5ca1f1;
+  mix-blend-mode: normal;
+  opacity: 0.4;
+  border-radius: 2px;
+}
+#link-a {
+  position: absolute;
+  width: 123px;
+  height: 31px;
+  left: 330px;
+  top: 40px;
+  font-style: normal;
+  font-weight: 700px;
+  font-size: 26px;
+  line-height: 31px;
+  display: flex;
+  align-items: flex-end;
+  color: #ffffff;
+}
+#link-b {
+  position: absolute;
+  width: 7px;
+  height: 26px;
+  left: 460px;
+  top: 39px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 26px;
+  display: flex;
+  align-items: flex-end;
+  color: #ffffff;
+}
+#link-c {
+  position: absolute;
+  width: 203px;
+  height: 21px;
+  left: 480px;
+  top: 43px;
+  font-style: normal;
+  font-weight: 100;
+  font-size: 18px;
+  line-height: 21px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  color: #ffffff;
+}
+
+#link-d {
+  position: absolute;
+  width: 52px;
+  height: 26px;
+  left: 1250px;
+  top: 39px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 26px;
+  display: flex;
+  align-items: flex-end;
+  color: #ffffff;
+}
+
+#link-e {
+  position: absolute;
+  width: 60px;
+  height: 26px;
+  left: 1340px;
+  top: 39px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 26px;
+  display: flex;
+  align-items: flex-end;
+  color: #ffffff;
+}
+
+#link-f {
+  position: absolute;
+  width: 78px;
+  height: 26px;
+  left: 1430px;
+  top: 39px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 26px;
+  display: flex;
+  align-items: flex-end;
+  color: #ffffff;
+}
+
+.container {
+  background-color: #5ca1f1;
+  padding: 0;
+  max-width: 1702;
+  min-width: 1702;
+}
+.main-nav {
+  width: 1405px;
+  height: 26;
+  top: 7px;
+  position: absolute;
+  left: 322px;
+  list-style: none;
+  margin: 0 auto;
+}
+.main-nav_item {
+  display: inline-block;
+}
+.main-nav_item a {
+  color: #ffffff;
+  padding: 0px;
+  border-radius: 5px;
+  text-decoration: auto;
+  top: 40px;
+  position: absolute;
+}
+
+.main {
+  background-color: #5ca1f1;
+  width: 1702px;
+  height: 814px;
+  position: absolute;
+  z-index: -1;
+  right: 0px;
+  left: 0px;
+  margin: 0 auto;
+  min-width: 1702px;
+  max-width: 1702;
+  max-height: 814px;
+}
+
+.main-nav {
+  width: 1205px;
+  height: 26;
+  top: 7.14px;
+  position: absolute;
+  left: 322px;
+  list-style: none;
+  z-index: 1;
+  margin: 0 auto;
+}
+.main-nav_item {
+  display: inline-block;
+}
+.main-nav_item a {
+  color: #ffffff;
+  padding: 15px;
+  border-radius: 2px;
+  text-decoration: auto;
+  left: 45px;
+}
+
+>>>>>>> Stashed changes
 @font-face {
 
