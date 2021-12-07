@@ -20,28 +20,12 @@
   color: #ffffff;
 }
 
-.tilde {
-  position: absolute;
-  width: 29px;
-  height: 66px;
-  left: 199px;
-  top: 23px;
-
-  font-family: SF UI Display;
-  font-style: normal;
-  font-weight: bold;
-  font-size: 55px;
-  line-height: 66px;
-  display: flex;
-  align-items: flex-end;
-
-  color: #ffffff;
-}
-
 .parte-dos {
   box-sizing: border-box;
   padding: 0;
   margin: 0;
+  width: 100%;
+  height: 592px;
 }
 
 .logos {
@@ -51,6 +35,181 @@
   height: 103px;
   left: 235px;
   top: 1213px;
+}
+.parte-cuatro {
+  width: 100%;
+  height: 1412px;
+  z-index: -1;
+  margin: 0 auto;
+}
+
+.cuatro-comilla-uno {
+  position: absolute;
+  width: 29px;
+  height: 66px;
+  left: 476px;
+  top: 2358px;
+
+  font-family: SF UI Display;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 55px;
+  line-height: 66px;
+  /* identical to box height */
+
+  display: flex;
+  align-items: flex-end;
+
+  color: #333333;
+
+  mix-blend-mode: normal;
+  opacity: 0.8;
+}
+.cuatro-parrafo-uno {
+  position: absolute;
+  width: 732px;
+  height: 105px;
+  left: 495px;
+  top: 2414px;
+
+  font-family: SF UI Display;
+  font-style: normal;
+  font-weight: 100;
+  font-size: 26px;
+  line-height: 35px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #383838;
+
+  mix-blend-mode: normal;
+  opacity: 0.8;
+}
+.line-4-1 {
+  position: absolute;
+  width: 39.12px;
+  height: 2px;
+  left: 841px;
+  top: 2560px;
+  background: #5ca1f1;
+}
+.line-4-2 {
+  position: absolute;
+  width: 111px;
+  height: 4px;
+  left: 316px;
+  top: 3349px;
+  background: #5a9dea;
+  border-radius: 2px;
+  display: flex;
+}
+
+.antonia-jore {
+  position: absolute;
+  width: 98px;
+  height: 35px;
+  left: 813px;
+  top: 2577px;
+  font-family: SF UI Display;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 35px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #383838;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+}
+.sr {
+  position: absolute;
+  width: 103px;
+  height: 29px;
+  left: 811px;
+  top: 2605px;
+
+  font-family: SF UI Display;
+  font-style: normal;
+  font-weight: 100;
+  font-size: 14px;
+  line-height: 29px;
+  /* identical to box height, or 207% */
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #696969;
+
+  mix-blend-mode: normal;
+  opacity: 0.8;
+}
+.cuatro-contacts {
+  position: absolute;
+  width: 228px;
+  height: 66px;
+  left: 199px;
+  top: 3259px;
+
+  font-family: SF UI Display;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 55px;
+  line-height: 66px;
+  /* identical to box height */
+
+  display: flex;
+  align-items: flex-end;
+
+  color: #333333;
+}
+.cuatro-parrafo-dos {
+  position: absolute;
+  width: 463px;
+  height: 70px;
+  left: 316px;
+  top: 3407px;
+
+  font-family: SF UI Display;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 29px;
+  line-height: 35px;
+  display: flex;
+  align-items: flex-end;
+
+  color: #383838;
+}
+.bo-4-1 {
+  position: absolute;
+  width: 209px;
+  height: 53px;
+  left: 919px;
+  top: 3424px;
+  background: #5a9dea;
+  border: 1px solid #5a9dea;
+  box-sizing: border-box;
+  border-radius: 5px;
+}
+.bo-4-1-co {
+  position: absolute;
+  width: 65px;
+  height: 19px;
+  left: 48px;
+  top: 17px;
+  font-family: SF UI Display;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 19px;
+  display: flex;
+  align-items: flex-end;
+  color: #ffffff;
+  text-decoration: none;
+}
+.bo-4-1-1-co {
 }
 
 .parte-tres {
@@ -133,7 +292,7 @@
 }
 .parte-dos {
   width: 100%;
-  height: 500px;
+  height: 592px;
   z-index: -1;
   margin: 0 auto;
 }
@@ -249,9 +408,6 @@
 .alien {
   width: 323px;
   height: 340px;
-  background: url(../img/Alien.png);
-  background-repeat: no-repeat;
-  background-size: cover;
   position: absolute;
   top: 271px;
   right: 0px;
@@ -393,6 +549,30 @@
   font-family: SF UI Display;
 }
 
+.pa-uno-uno {
+  height: 195px;
+  width: 825px;
+  left: 199px;
+  top: 329px;
+  border-radius: nullpx;
+}
+.tilde {
+  position: absolute;
+  width: 29px;
+  height: 66px;
+  left: 0px;
+  top: -66px;
+
+  font-family: SF UI Display;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 55px;
+  line-height: 66px;
+  display: flex;
+  align-items: flex-end;
+
+  color: #ffffff;
+}
 .container {
   background-color: #5ca1f1;
 
@@ -454,7 +634,6 @@
   text-decoration: auto;
   left: 45px;
 }
-
 
 @font-face {
   font-family: "SF UI Display Ultralight";
