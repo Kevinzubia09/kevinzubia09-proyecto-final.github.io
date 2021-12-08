@@ -627,6 +627,221 @@
   left: 45px;
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.video {
+  width: 962.89px;
+  height: 448px;
+}
+
+.mascara-1 {
+  width: 960.89px;
+  height: 448px;
+}
+
+.mascara-2 {
+  opacity: 0.1;
+  width: 960.89px;
+  height: 448px;
+  background: 0px;}
+
+  .boton-play {
+  width: 83px;
+  height: 83px;
+}
+
+.ovalo3 {
+  width: 83px;
+  height: 83px;
+  background: #ffffff;
+  box-shadow: 1px 21px 17px rgba(0,0,0,0.3);
+}
+
+.triangulo-play {
+  width: 24px;
+  height: 19px;
+  background: #5a9dea;
+  transform: rotate(90.00008deg);
+}
+
 @font-face {
   font-family: "SF UI Display Ultralight";
   font-style: normal;
