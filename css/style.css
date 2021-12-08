@@ -1,22 +1,16 @@
-* {
-  box-sizing: border-box;
-  padding: 0;
-  margin: 0;
-}
 .designer {
   position: absolute;
   width: 825px;
   height: 198px;
   left: 199px;
   top: 329px;
-  font-family: SF;
+  font-family: "SF UI Display Light";
   font-style: normal;
   font-weight: 300;
   font-size: 55px;
   line-height: 66px;
   display: flex;
   align-items: flex-end;
-  font-family: SF UI Display;
   color: #ffffff;
 }
 
@@ -26,8 +20,7 @@
   height: 66px;
   left: 199px;
   top: 23px;
-
-  font-family: SF UI Display;
+  font-family: "SF UI Display Light";
   font-style: normal;
   font-weight: bold;
   font-size: 55px;
@@ -73,7 +66,7 @@
   display: flex;
   align-items: flex-end;
   color: #333333;
-  font-family: SF UI Display;
+  font-family: "SF UI Display Semibold";
 }
 .ti-3-2 {
   position: absolute;
@@ -88,7 +81,7 @@
   display: flex;
   align-items: flex-end;
   color: #383838;
-  font-family: SF UI Display;
+  font-family: "SF UI Display Semibold";
 }
 .pa-3-1 {
   position: absolute;
