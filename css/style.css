@@ -627,8 +627,40 @@
   left: 45px;
 }
 
+.pie-de-pagina {
+  width: 1702px;
+  height: 212px;
+}
 
+.foot-1 {
+  width: 123px;
+  height: 31px;
+  color: #ffffff;
+  font-family: "SF UI Display";
+  font-size: 26px;
+  font-weight: 700;
+  line-height: 31px;
+}
 
+.foot-2-diagonal {
+    width: 7px;
+    height: 26px;
+    color: #ffffff;
+    font-family: "SF UI Display";
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 26px;
+  }
+
+.foot-3 {
+  width: 203px;
+  height: 21px;
+  color: #ffffff;
+  font-family: "SF UI Display";
+  font-size: 18px;
+  font-weight: 100;
+  line-height: 21px;
+}
 
 
 
