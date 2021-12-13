@@ -1,24 +1,15 @@
-.designer {
-  position: absolute;
-  width: 825px;
-  height: 198px;
-  left: 199px;
-  top: 329px;
-  font-family: "SF UI Display Light";
-  font-style: normal;
-  font-weight: 300;
-  font-size: 55px;
-  line-height: 66px;
-  display: flex;
-  align-items: flex-end;
-  color: #ffffff;
-}
-
-.parte-dos {
+* {
   box-sizing: border-box;
   padding: 0;
   margin: 0;
-  width: 100%;
+}
+
+.parte-dos {
+  width: 1702px;
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  width: 1702px;
   height: 592px;
 }
 
@@ -31,7 +22,7 @@
   top: 1213px;
 }
 .parte-cuatro {
-  width: 100%;
+  width: 1702px;
   height: 1412px;
   z-index: -1;
   margin: 0 auto;
@@ -41,8 +32,8 @@
   position: absolute;
   width: 29px;
   height: 66px;
-  left: 199px;
-  top: 23px;
+  left: 476px;
+  top: 2358px;
   font-family: "SF UI Display Light";
   font-style: normal;
   font-weight: bold;
@@ -118,7 +109,7 @@
 }
 .sr {
   position: absolute;
-  width: 103px;
+  width: 120px;
   height: 29px;
   left: 811px;
   top: 2605px;
@@ -145,17 +136,13 @@
   height: 66px;
   left: 199px;
   top: 3259px;
-
   font-family: SF UI Display;
   font-style: normal;
   font-weight: 600;
   font-size: 55px;
   line-height: 66px;
-  /* identical to box height */
-
   display: flex;
   align-items: flex-end;
-
   color: #333333;
 }
 .cuatro-parrafo-dos {
@@ -164,7 +151,6 @@
   height: 70px;
   left: 316px;
   top: 3407px;
-
   font-family: SF UI Display;
   font-style: normal;
   font-weight: 600;
@@ -172,7 +158,6 @@
   line-height: 35px;
   display: flex;
   align-items: flex-end;
-
   color: #383838;
 }
 .bo-4-1 {
@@ -203,10 +188,9 @@
   text-decoration: none;
 }
 
-
 .parte-tres {
   background-color: #f5f5f5;
-  width: 100%;
+  width: 1702px;
   height: 835px;
   z-index: -1;
   margin: 0 auto;
@@ -216,7 +200,7 @@
   width: 347px;
   height: 66px;
   left: 234px;
-  top: 1423px;
+  top: 1523px;
   font-style: normal;
   font-weight: 600;
   font-size: 55px;
@@ -231,7 +215,7 @@
   width: 463px;
   height: 70px;
   left: 463px;
-  top: 1571px;
+  top: 1671px;
   font-style: normal;
   font-weight: 600;
   font-size: 29px;
@@ -246,7 +230,7 @@
   width: 417px;
   height: 104px;
   left: 463px;
-  top: 1671px;
+  top: 1771px;
   font-style: normal;
   font-weight: 100;
   font-size: 16px;
@@ -261,7 +245,7 @@
   width: 111px;
   height: 4px;
   left: 445px;
-  top: 1520px;
+  top: 1613px;
 
   background: #5a9dea;
   border-radius: 2px;
@@ -271,19 +255,19 @@
   width: 637px;
   height: 376px;
   left: 1015px;
-  top: 1531px;
+  top: 1631px;
 }
 .tres-botones {
   position: absolute;
   width: 48.64px;
   height: 4.76px;
   left: 926px;
-  top: 2023px;
+  top: 2123px;
 
   background: #c9cdd1;
 }
 .parte-dos {
-  width: 100%;
+  width: 1702px;
   height: 592px;
   z-index: -1;
   margin: 0 auto;
@@ -388,15 +372,6 @@
   font-family: SF UI Display;
 }
 
-.main {
-  background-color: #5ca1f1;
-  width: 100%;
-  height: 814px;
-  z-index: -1;
-  margin: 0 auto;
-  font-family: SF UI Display;
-}
-
 .alien {
   width: 323px;
   height: 340px;
@@ -407,29 +382,22 @@
 }
 
 .color.a {
-  background: url(../img/color-a.png);
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: absolute;
-  max-width: 1702px;
-  min-width: 1702px;
+  max-width: 1202px;
   height: 881.37px;
   left: -269.62px;
   top: 0px;
   background: rgba(85, 148, 221, 0.441236);
   mix-blend-mode: normal;
   opacity: 0.6;
+  display: flex;
 }
 
 .line {
-  background: url(../img/line.png);
-  background-repeat: no-repeat;
-  background-size: cover;
   position: absolute;
   width: 1205px;
   height: 3px;
   left: 325px;
-  top: 40px;
+  top: 104px;
   mix-blend-mode: normal;
   opacity: 0.2;
   border: 1px solid #ffffff;
@@ -460,28 +428,31 @@
   align-items: flex-end;
   color: #ffffff;
   font-family: SF UI Display;
+  text-decoration: none;
 }
 #link-b {
   position: absolute;
   width: 7px;
   height: 26px;
-  left: 460px;
-  top: 39px;
+  left: 450px;
+  top: 49px;
+
+  font-family: SF UI Display;
   font-style: normal;
   font-weight: 500;
   font-size: 22px;
   line-height: 26px;
   display: flex;
   align-items: flex-end;
+
   color: #ffffff;
-  font-family: SF UI Display;
 }
 #link-c {
   position: absolute;
-  width: 203px;
+  width: 253px;
   height: 21px;
-  left: 480px;
-  top: 43px;
+  left: 470px;
+  top: 49px;
   font-style: normal;
   font-weight: 100;
   font-size: 18px;
@@ -498,7 +469,7 @@
   width: 52px;
   height: 26px;
   left: 1250px;
-  top: 39px;
+  top: 49px;
   font-style: normal;
   font-weight: 500;
   font-size: 22px;
@@ -514,7 +485,7 @@
   width: 60px;
   height: 26px;
   left: 1340px;
-  top: 39px;
+  top: 49px;
   font-style: normal;
   font-weight: 500;
   font-size: 22px;
@@ -530,7 +501,7 @@
   width: 78px;
   height: 26px;
   left: 1430px;
-  top: 39px;
+  top: 49px;
   font-style: normal;
   font-weight: 500;
   font-size: 22px;
@@ -542,82 +513,59 @@
 }
 
 .pa-uno-uno {
-  height: 195px;
-  width: 825px;
+  position: absolute;
+  width: 740px;
+  height: 198px;
   left: 199px;
   top: 329px;
-  border-radius: nullpx;
+  font-family: "SF UI Display Light";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 55px;
+  line-height: 66px;
+  display: flex;
+  align-items: flex-end;
+  color: #ffffff;
 }
 .tilde {
   position: absolute;
   width: 29px;
   height: 66px;
-  left: 0px;
-  top: -66px;
-
-  font-family: SF UI Display;
+  left: 199px;
+  top: 263px;
   font-style: normal;
   font-weight: bold;
   font-size: 55px;
   line-height: 66px;
   display: flex;
   align-items: flex-end;
-
   color: #ffffff;
 }
-.container {
+.todo {
+  width: 1702px;
+  min-width: 380px;
+  height: 3864;
+}
+.header {
+  width: 1702px;
+  height: 104px;
+  display: flex;
   background-color: #5ca1f1;
-
-  max-width: 1702;
-  min-width: 1702;
-}
-.main-nav {
-  width: 1405px;
-  height: 26;
-  top: 7px;
-  position: absolute;
-  left: 322px;
-  list-style: none;
-  margin: 0 auto;
-}
-.main-nav_item {
-  display: inline-block;
-}
-.main-nav_item a {
-  color: #ffffff;
-  padding: 0px;
-  border-radius: 5px;
-  text-decoration: auto;
-  top: 40px;
-  position: absolute;
 }
 
-.main {
+.parte-uno {
   background-color: #5ca1f1;
   width: 1702px;
   height: 814px;
-  position: absolute;
-  z-index: -1;
-  right: 0px;
-  left: 0px;
-  margin: 0 auto;
-  min-width: 1702px;
-  max-width: 1702;
-  max-height: 814px;
 }
-
-.main-nav {
+.container {
+  background-color: #5ca1f1;
+  width: 1702;
+}
+.navbar {
   width: 1205px;
-  height: 26;
-  top: 7.14px;
-  position: absolute;
-  left: 322px;
-  list-style: none;
-  z-index: 1;
-  margin: 0 auto;
-}
-.main-nav_item {
   display: inline-block;
+  position: absolute;
 }
 .main-nav_item a {
   color: #ffffff;
