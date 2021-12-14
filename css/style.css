@@ -14,11 +14,10 @@
 }
 
 .logos {
-  background: url(../img/Logos.png);
   position: absolute;
   width: 1232px;
-  height: 103px;
-  left: 235px;
+  height: 100px;
+  left: 243px;
   top: 1213px;
 }
 .parte-cuatro {
@@ -214,7 +213,7 @@
   position: absolute;
   width: 463px;
   height: 70px;
-  left: 463px;
+  left: 445px;
   top: 1671px;
   font-style: normal;
   font-weight: 600;
@@ -229,7 +228,7 @@
   position: absolute;
   width: 417px;
   height: 104px;
-  left: 463px;
+  left: 445px;
   top: 1771px;
   font-style: normal;
   font-weight: 100;
@@ -291,7 +290,7 @@
   position: absolute;
   width: 534px;
   height: 78px;
-  left: 925px;
+  left: 900px;
   top: 942px;
   font-style: normal;
   font-weight: 100;
@@ -304,8 +303,9 @@
 }
 .pa-2-3 {
   position: absolute;
+  width: 534;
   height: 52px;
-  left: 925px;
+  left: 900px;
   top: 1072px;
   font-style: normal;
   font-weight: 100;
@@ -374,29 +374,18 @@
 
 .alien {
   width: 323px;
-  height: 340px;
+  height: 250px;
   position: absolute;
   top: 271px;
   right: 0px;
-  left: 1041px;
-}
-
-.color.a {
-  max-width: 1202px;
-  height: 881.37px;
-  left: -269.62px;
-  top: 0px;
-  background: rgba(85, 148, 221, 0.441236);
-  mix-blend-mode: normal;
-  opacity: 0.6;
-  display: flex;
+  left: 1110px;
 }
 
 .line {
   position: absolute;
   width: 1205px;
   height: 3px;
-  left: 325px;
+  left: 225px;
   top: 104px;
   mix-blend-mode: normal;
   opacity: 0.2;
@@ -417,7 +406,7 @@
   position: absolute;
   width: 123px;
   height: 31px;
-  left: 330px;
+  left: 230px;
   top: 40px;
   font-style: normal;
   font-weight: bold;
@@ -434,7 +423,7 @@
   position: absolute;
   width: 7px;
   height: 26px;
-  left: 450px;
+  left: 350px;
   top: 49px;
 
   font-family: SF UI Display;
@@ -451,7 +440,7 @@
   position: absolute;
   width: 253px;
   height: 21px;
-  left: 470px;
+  left: 370px;
   top: 49px;
   font-style: normal;
   font-weight: 100;
@@ -468,7 +457,7 @@
   position: absolute;
   width: 52px;
   height: 26px;
-  left: 1250px;
+  left: 1150px;
   top: 49px;
   font-style: normal;
   font-weight: 500;
@@ -484,7 +473,7 @@
   position: absolute;
   width: 60px;
   height: 26px;
-  left: 1340px;
+  left: 1240px;
   top: 49px;
   font-style: normal;
   font-weight: 500;
@@ -500,7 +489,7 @@
   position: absolute;
   width: 78px;
   height: 26px;
-  left: 1430px;
+  left: 1330px;
   top: 49px;
   font-style: normal;
   font-weight: 500;
@@ -516,7 +505,7 @@
   position: absolute;
   width: 740px;
   height: 198px;
-  left: 199px;
+  left: 230px;
   top: 329px;
   font-family: "SF UI Display Light";
   font-style: normal;
@@ -531,7 +520,7 @@
   position: absolute;
   width: 29px;
   height: 66px;
-  left: 199px;
+  left: 230px;
   top: 263px;
   font-style: normal;
   font-weight: bold;
@@ -579,6 +568,9 @@
   width: 1702px;
   height: 212px;
 }
+.main-nav {
+  list-style: none;
+}
 
 .foot-1 {
   width: 123px;
@@ -591,14 +583,14 @@
 }
 
 .foot-2-diagonal {
-    width: 7px;
-    height: 26px;
-    color: #ffffff;
-    font-family: "SF UI Display";
-    font-size: 22px;
-    font-weight: 500;
-    line-height: 26px;
-  }
+  width: 7px;
+  height: 26px;
+  color: #ffffff;
+  font-family: "SF UI Display";
+  font-size: 22px;
+  font-weight: 500;
+  line-height: 26px;
+}
 
 .foot-3 {
   width: 203px;
@@ -609,189 +601,16 @@
   font-weight: 100;
   line-height: 21px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-.video {
-  width: 962.89px;
-  height: 448px;
+#video {
+  position: absolute;
+  top: 2694px;
+  left: 370.06px;
 }
-
+.pie-pagina {
+  background-color: #5ca1f1;
+  width: 100%;
+  height: 212px;
+}
 .mascara-1 {
   width: 960.89px;
   height: 448px;
@@ -801,9 +620,10 @@
   opacity: 0.1;
   width: 960.89px;
   height: 448px;
-  background: 0px;}
+  background: 0px;
+}
 
-  .boton-play {
+.boton-play {
   width: 83px;
   height: 83px;
 }
@@ -812,7 +632,7 @@
   width: 83px;
   height: 83px;
   background: #ffffff;
-  box-shadow: 1px 21px 17px rgba(0,0,0,0.3);
+  box-shadow: 1px 21px 17px rgba(0, 0, 0, 0.3);
 }
 
 .triangulo-play {
