@@ -1,26 +1,26 @@
-@media (min-width: 900px) {
+@media (min-width: 576px) {
   .container {
     padding: 10px;
     width: 100%;
   }
   .parte-uno {
     width: 100%;
-    padding: 40px;
-    font-size: 2em;
+    padding: 20px;
+    font-size: 1.5em;
   }
   .parte-dos {
     width: 100%;
-    padding: 40px;
-    font-size: 2em;
+    padding: 20px;
+    font-size: 1.5em;
   }
   .parte-tres {
     width: 100%;
-    padding: 40px;
-    font-size: 2em;
+    padding: 20px;
+    font-size: 1.5em;
   }
   .parte-cuatro {
     width: 100%;
-    padding: 40px;
-    font-size: 2em;
+    padding: 20px;
+    font-size: 1.5em;
   }
 }
