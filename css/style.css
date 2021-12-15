@@ -3,7 +3,6 @@
   padding: 0;
   margin: 0;
 }
-
 .parte-dos {
   width: 1702px;
   box-sizing: border-box;
@@ -38,11 +37,8 @@
   font-weight: bold;
   font-size: 55px;
   line-height: 66px;
-  /* identical to box height */
-
   display: flex;
   align-items: flex-end;
-
   color: #333333;
 
   mix-blend-mode: normal;
@@ -54,8 +50,7 @@
   height: 105px;
   left: 495px;
   top: 2414px;
-
-  font-family: SF UI Display;
+  font-family: "SF UI Display";
   font-style: normal;
   font-weight: 100;
   font-size: 26px;
@@ -63,9 +58,7 @@
   display: flex;
   align-items: center;
   text-align: center;
-
   color: #383838;
-
   mix-blend-mode: normal;
   opacity: 0.8;
 }
@@ -473,7 +466,7 @@
   display: flex;
   align-items: flex-end;
   color: #ffffff;
-  font-family: SF UI Display;
+  font-family: "SF UI Display";
 }
 
 #link-e {
@@ -538,7 +531,7 @@
   color: #ffffff;
 }
 .todo {
-  width: 1702px;
+  max-width: 1702px;
   min-width: 380px;
   height: 3864;
 }
@@ -570,7 +563,151 @@
   text-decoration: auto;
   left: 45px;
 }
+.parte-cinco {
+  max-width: 1702px;
+  min-width: 380px;
+  height: 212px;
+  display: flex;
+}
+#pa-5-1 {
+  position: absolute;
+  width: 319px;
+  height: 21px;
+  left: 230px;
+  top: 3794px;
+  font-family: "SF UI Display";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 21px;
+  display: flex;
+  align-items: flex-end;
 
+  color: #ffffff;
+
+  mix-blend-mode: normal;
+  opacity: 0.8;
+}
+.pie-pagina {
+  background-color: #5ca1f1;
+  width: 1702px;
+  height: 212px;
+  display: flex;
+}
+#link-a2 {
+  position: absolute;
+  width: 123px;
+  height: 31px;
+  left: 230px;
+  top: 40px;
+  font-style: normal;
+  font-weight: bold;
+  font-weight: 700px;
+  font-size: 26px;
+  line-height: 31px;
+  display: flex;
+  align-items: flex-end;
+  color: #ffffff;
+  font-family: SF UI Display;
+  text-decoration: none;
+}
+#link-b2 {
+  position: absolute;
+  width: 7px;
+  height: 26px;
+  left: 350px;
+  top: 49px;
+
+  font-family: SF UI Display;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 26px;
+  display: flex;
+  align-items: flex-end;
+
+  color: #ffffff;
+}
+#link-c2 {
+  position: absolute;
+  width: 253px;
+  height: 21px;
+  left: 370px;
+  top: 49px;
+  font-style: normal;
+  font-weight: 100;
+  font-size: 18px;
+  line-height: 21px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  color: #ffffff;
+
+  font-family: "SF UI Display";
+}
+
+#link-d2 {
+  position: absolute;
+  width: 52px;
+  height: 26px;
+  left: 1160px;
+  top: 49px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 26px;
+  display: flex;
+  align-items: flex-end;
+  color: #ffffff;
+  font-family: SF UI Display;
+}
+
+#link-e2 {
+  position: absolute;
+  width: 60px;
+  height: 26px;
+  left: 1250px;
+  top: 49px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 26px;
+  display: flex;
+  align-items: flex-end;
+  color: #ffffff;
+  font-family: SF UI Display;
+}
+
+#link-f2 {
+  position: absolute;
+  width: 78px;
+  height: 26px;
+  left: 1340px;
+  top: 49px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 26px;
+  display: flex;
+  align-items: flex-end;
+  color: #ffffff;
+  font-family: "SF UI Display";
+}
+.navbar-2 {
+  width: 1205px;
+  display: inline-block;
+  position: absolute;
+}
+.main-nav_item-2 a {
+  color: #ffffff;
+  padding: 15px;
+  border-radius: 2px;
+  text-decoration: auto;
+  left: 45px;
+}
+.main-nav-2 {
+  list-style: none;
+}
 .pie-de-pagina {
   width: 1702px;
   height: 212px;
@@ -585,10 +722,38 @@
   opacity: 0.2;
   border: 1px solid #ffffff;
 }
+
 .main-nav {
   list-style: none;
 }
-
+.f {
+  position: absolute;
+  width: 5.23px;
+  height: 11.2px;
+  left: 1300px;
+  top: 3787.7px;
+}
+.p {
+  position: absolute;
+  width: 19.42px;
+  height: 19.42px;
+  left: 1340px;
+  top: 3787.7px;
+}
+.t {
+  position: absolute;
+  width: 19.42px;
+  height: 19.42px;
+  left: 1376px;
+  top: 3787.7px;
+}
+.in {
+  position: absolute;
+  width: 19.42px;
+  height: 19.42px;
+  left: 1410px;
+  top: 3787.7px;
+}
 .foot-1 {
   width: 123px;
   height: 31px;
@@ -622,11 +787,6 @@
   position: absolute;
   top: 2694px;
   left: 370.06px;
-}
-.pie-pagina {
-  background-color: #5ca1f1;
-  width: 100%;
-  height: 212px;
 }
 .mascara-1 {
   width: 960.89px;
