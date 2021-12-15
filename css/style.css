@@ -94,7 +94,7 @@
   height: 35px;
   left: 813px;
   top: 2577px;
-  font-family: SF UI Display;
+  font-family: 'SF UI Display';
   font-style: normal;
   font-weight: 600;
   font-size: 18px;
@@ -113,7 +113,7 @@
   left: 811px;
   top: 2605px;
 
-  font-family: SF UI Display;
+  font-family: 'SF UI Display';
   font-style: normal;
   font-weight: 100;
   font-size: 14px;
@@ -150,7 +150,7 @@
   height: 70px;
   left: 316px;
   top: 3407px;
-  font-family: SF UI Display;
+  font-family: 'SF UI Display';
   font-style: normal;
   font-weight: 600;
   font-size: 29px;
@@ -169,7 +169,7 @@
   border: 1px solid #5a9dea;
   box-sizing: border-box;
   border-radius: 5px;
-  font-family: SF UI Display;
+  font-family: 'SF UI Display';
 }
 .bo-4-1-co {
   position: absolute;
@@ -177,7 +177,7 @@
   height: 19px;
   left: 48px;
   top: 17px;
-  font-family: SF UI Display;
+  font-family: 'SF UI Display';
   font-style: normal;
   font-weight: 600;
   font-size: 16px;
@@ -244,7 +244,7 @@
   display: flex;
   align-items: center;
   color: #848484;
-  font-family: SF UI Display;
+  font-family: 'SF UI Display';
 }
 .bo-3-1 {
   position: absolute;
@@ -291,7 +291,7 @@
   display: flex;
   align-items: flex-end;
   color: #383838;
-  font-family: SF UI Display;
+  font-family: 'SF UI Display';
 }
 .pa-2-2 {
   position: absolute;
@@ -306,7 +306,7 @@
   display: flex;
   align-items: center;
   color: #848484;
-  font-family: SF UI Display;
+  font-family: 'SF UI Display';
 }
 .pa-2-3 {
   position: absolute;
@@ -321,7 +321,7 @@
   display: flex;
   align-items: center;
   color: #848484;
-  font-family: SF UI Display;
+  font-family: 'SF UI Display';
 }
 .bo-2-1 {
   position: absolute;
@@ -333,18 +333,18 @@
   border: 1px solid #5a9dea;
   box-sizing: border-box;
   border-radius: 5px;
-  font-family: SF UI Display;
+  font-family: 'SF UI Display';
 }
 .bo-2-2 {
   position: absolute;
-  width: 161px;
+  width: 160px;
   height: 45px;
   left: 423px;
   top: 1079px;
   border: 1px solid #5a9dea;
   box-sizing: border-box;
   border-radius: 5px;
-  font-family: SF UI Display;
+  font-family: 'SF UI Display';
 }
 .bo-2-1-co {
   position: absolute;
@@ -360,7 +360,7 @@
   align-items: flex-end;
   color: #ffffff;
   text-decoration: auto;
-  font-family: SF UI Display;
+  font-family: 'SF UI Display';
 }
 .bo-2-2-co {
   position: absolute;
@@ -376,7 +376,7 @@
   align-items: flex-end;
   color: #5a9dea;
   text-decoration: auto;
-  font-family: SF UI Display;
+  font-family:'SF UI Display';
 }
 
 .alien {
@@ -423,7 +423,7 @@
   display: flex;
   align-items: flex-end;
   color: #ffffff;
-  font-family: SF UI Display;
+  font-family: 'SF UI Display';
   text-decoration: none;
 }
 #link-b {
@@ -433,7 +433,7 @@
   left: 350px;
   top: 49px;
 
-  font-family: SF UI Display;
+  font-family:'SF UI Display';
   font-style: normal;
   font-weight: 500;
   font-size: 22px;
@@ -457,7 +457,7 @@
   align-items: flex-end;
   justify-content: center;
   color: #ffffff;
-  font-family: SF UI Display;
+  font-family: 'SF UI Display';
 }
 
 #link-d {
@@ -473,7 +473,7 @@
   display: flex;
   align-items: flex-end;
   color: #ffffff;
-  font-family: SF UI Display;
+  font-family: 'SF UI Display';
 }
 
 #link-e {
@@ -489,7 +489,7 @@
   display: flex;
   align-items: flex-end;
   color: #ffffff;
-  font-family: SF UI Display;
+  font-family: 'SF UI Display';
 }
 
 #link-f {
@@ -505,7 +505,7 @@
   display: flex;
   align-items: flex-end;
   color: #ffffff;
-  font-family: SF UI Display;
+  font-family: 'SF UI Display';
 }
 
 .pa-uno-uno {
