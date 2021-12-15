@@ -482,7 +482,7 @@
   display: flex;
   align-items: flex-end;
   color: #ffffff;
-  font-family: SF UI Display;
+  font-family: "SF UI Display";
 }
 
 #link-f {
@@ -642,7 +642,6 @@
   align-items: flex-end;
   justify-content: center;
   color: #ffffff;
-
   font-family: "SF UI Display";
 }
 
