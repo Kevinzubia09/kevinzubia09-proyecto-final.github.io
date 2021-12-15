@@ -105,7 +105,7 @@
   height: 29px;
   left: 811px;
   top: 2605px;
-
+  margin-top: 25px;
   font-family: SF UI Display;
   font-style: normal;
   font-weight: 100;
@@ -893,4 +893,6 @@
 }
 body {
   font-family: sf;
+  display: flex;
+  width: 100%;
 }
