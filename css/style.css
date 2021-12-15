@@ -891,10 +891,10 @@
   font-weight: 700;
 }
 @font-face {
-  font-family: sf;
+  font-family: 'SF UI Display';
   src: url(../fonts/sf-ui-display-cufonfonts/sf-ui-display-medium-58646be638f96.otf);
   font-weight: 400;
 }
 body {
-  font-family: sf;
+  font-family: 'SF UI Display';
 }
