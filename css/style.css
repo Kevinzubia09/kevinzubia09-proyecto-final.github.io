@@ -437,7 +437,7 @@
   left: 450px;
   top: 49px;
 
-  font-family: SF UI Display;
+  font-family: 'SF UI Display';
   font-style: normal;
   font-weight: 500;
   font-size: 22px;
@@ -449,7 +449,7 @@
 }
 #link-c {
   position: absolute;
-  width: 253px;
+  width: 280px;
   height: 21px;
   left: 470px;
   top: 49px;
@@ -461,7 +461,7 @@
   align-items: flex-end;
   justify-content: center;
   color: #ffffff;
-  font-family: SF UI Display;
+  font-family: 'SF UI Display';
 }
 
 #link-d {
@@ -477,7 +477,7 @@
   display: flex;
   align-items: flex-end;
   color: #ffffff;
-  font-family: SF UI Display;
+  font-family: 'SF UI Display';
 }
 
 #link-e {
@@ -493,7 +493,7 @@
   display: flex;
   align-items: flex-end;
   color: #ffffff;
-  font-family: SF UI Display;
+  font-family: 'SF UI Display';
 }
 
 #link-f {
@@ -509,7 +509,7 @@
   display: flex;
   align-items: flex-end;
   color: #ffffff;
-  font-family: SF UI Display;
+  font-family: 'SF UI Display';
 }
 
 .pa-uno-uno {
@@ -576,8 +576,11 @@
 }
 
 .pie-de-pagina {
+  position: absolute;
   width: 1702px;
   height: 212px;
+  display: flex;
+  background-color: #5ca1f1;
 }
 
 .foot-1 {
