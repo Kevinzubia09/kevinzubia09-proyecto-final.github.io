@@ -3,9 +3,13 @@
   padding: 0;
   margin: 0;
 }
+<<<<<<< Updated upstream
 html {
   font-size: 62.5%;
 }
+=======
+
+>>>>>>> Stashed changes
 .parte-dos {
   width: 170.02rem;
   box-sizing: border-box;
@@ -438,7 +442,7 @@ html {
   align-items: flex-end;
   justify-content: center;
   color: #ffffff;
-  font-family: SF UI Display;
+  font-family: "SF UI Display";
 }
 #link-d {
   position: absolute;
@@ -515,9 +519,18 @@ html {
   color: #ffffff;
 }
 .todo {
+<<<<<<< Updated upstream
   width: 170rem;
   min-width: 38rem;
   height: 386.04rem;
+=======
+  max-width: 1702px;
+  min-width: 380px;
+  height: 3864;
+  display: flex;
+  flex-wrap: wrap;
+  min-width: 280px;
+>>>>>>> Stashed changes
 }
 .header {
   width: 170rem;
@@ -527,13 +540,21 @@ html {
 }
 .parte-uno {
   background-color: #5ca1f1;
+<<<<<<< Updated upstream
   width: 170rem;
   height: 81.04rem;
 }
 .container {
   background-color: #5ca1f1;
   width: 170rem;
+=======
+  width: 1702px;
+  border: 0;
+  margin: 0;
+  padding: 0;
+>>>>>>> Stashed changes
 }
+
 .navbar {
   width: 120.05rem;
   display: inline-block;
@@ -541,19 +562,81 @@ html {
 }
 .main-nav_item a {
   color: #ffffff;
-  padding: 15px;
+  padding: 0px;
   border-radius: 2px;
   text-decoration: auto;
   left: 45px;
 }
+<<<<<<< Updated upstream
+
+
+
+=======
+.parte-cinco {
+  max-width: 1702px;
+  min-width: 380px;
+  height: 212px;
+  display: flex;
+}
+#pa-5-1 {
+  position: absolute;
+  width: 319px;
+  height: 21px;
+  left: 230px;
+  top: 3794px;
+  font-family: "SF UI Display";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 21px;
+  display: flex;
+  align-items: flex-end;
+  color: #ffffff;
+
+  mix-blend-mode: normal;
+  opacity: 0.8;
+}
+.pie-pagina {
+  background-color: #5ca1f1;
+  width: 1702px;
+  height: 212px;
+}
+#link-a2 {
+  position: absolute;
+  width: 123px;
+  height: 31px;
+  left: 230px;
+  top: 40px;
+  font-style: normal;
+  font-weight: bold;
+  font-weight: 700px;
+  font-size: 26px;
+  line-height: 31px;
+  display: flex;
+  align-items: flex-end;
+  color: #ffffff;
+  font-family: SF UI Display;
+  text-decoration: none;
+}
+#link-b2 {
+  position: absolute;
+  width: 7px;
+  height: 26px;
+  left: 350px;
+  top: 49px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 26px;
+  display: flex;
+  align-items: flex-end;
+>>>>>>> Stashed changes
 
 
 
 
 
-
-
-
+<<<<<<< Updated upstream
 
 
 
@@ -761,6 +844,45 @@ html {
   background: #5a9dea;
   transform: rotate(90.00008deg);
 }
+=======
+.main-nav {
+  list-style: none;
+}
+.f {
+  position: absolute;
+  width: 5.23px;
+  height: 11.2px;
+  left: 1300px;
+  top: 3787.7px;
+}
+.p {
+  position: absolute;
+  width: 19.42px;
+  height: 19.42px;
+  left: 1340px;
+  top: 3787.7px;
+}
+.t {
+  position: absolute;
+  width: 19.42px;
+  height: 19.42px;
+  left: 1376px;
+  top: 3787.7px;
+}
+.in {
+  position: absolute;
+  width: 19.42px;
+  height: 19.42px;
+  left: 1410px;
+  top: 3787.7px;
+}
+
+#video {
+  position: absolute;
+  top: 2694px;
+  left: 370.06px;
+}
+>>>>>>> Stashed changes
 
 @font-face {
   font-family: "SF UI Display Ultralight";
@@ -835,6 +957,28 @@ html {
   src: url(../fonts/sf-ui-display-cufonfonts/sf-ui-display-medium-58646be638f96.otf);
   font-weight: 400;
 }
+
 body {
   font-family: sf;
+}
+@media (min-width: 360px) {
+}
+
+@media (min-width: 680px) {
+}
+
+@media (min-width: 1200px) {
+}
+@media (min-width: 1600px) {
+}
+.container {
+  display: flex;
+  flex-wrap: wrap;
+}
+.s-uno,
+.s-dos,
+.s-tres,
+.s-cuatro,
+.s-cinco {
+  width: 100%;
 }
