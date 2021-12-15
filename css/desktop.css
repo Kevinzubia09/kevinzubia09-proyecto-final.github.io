@@ -1,0 +1,10 @@
+.header {
+  flex-direction: row;
+  justify-content: space-between;
+}
+.parte-uno {
+  width: 50%;
+}
+.pa-uno-uno {
+  width: 50%;
+}

@@ -25,7 +25,6 @@
   z-index: -1;
   margin: 0 auto;
 }
-
 .cuatro-comilla-uno {
   position: absolute;
   width: 29px;
@@ -40,7 +39,6 @@
   display: flex;
   align-items: flex-end;
   color: #333333;
-
   mix-blend-mode: normal;
   opacity: 0.8;
 }
@@ -106,19 +104,15 @@
   left: 811px;
   top: 2605px;
   margin-top: 25px;
-  font-family: SF UI Display;
+  font-family: "SF UI Display";
   font-style: normal;
   font-weight: 100;
   font-size: 14px;
   line-height: 29px;
-  /* identical to box height, or 207% */
-
   display: flex;
   align-items: center;
   text-align: center;
-
   color: #696969;
-
   mix-blend-mode: normal;
   opacity: 0.8;
 }
@@ -128,7 +122,7 @@
   height: 66px;
   left: 199px;
   top: 3259px;
-  font-family: SF UI Display;
+  font-family: "SF UI Display";
   font-style: normal;
   font-weight: 600;
   font-size: 55px;
@@ -143,7 +137,7 @@
   height: 70px;
   left: 316px;
   top: 3407px;
-  font-family: SF UI Display;
+  font-family: "SF UI Display";
   font-style: normal;
   font-weight: 600;
   font-size: 29px;
@@ -162,7 +156,7 @@
   border: 1px solid #5a9dea;
   box-sizing: border-box;
   border-radius: 5px;
-  font-family: SF UI Display;
+  font-family: "SF UI Display";
 }
 .bo-4-1-co {
   position: absolute;
@@ -170,7 +164,7 @@
   height: 19px;
   left: 48px;
   top: 17px;
-  font-family: SF UI Display;
+  font-family: "SF UI Display";
   font-style: normal;
   font-weight: 600;
   font-size: 16px;
@@ -237,7 +231,7 @@
   display: flex;
   align-items: center;
   color: #848484;
-  font-family: SF UI Display;
+  font-family: "SF UI Display";
 }
 .bo-3-1 {
   position: absolute;
@@ -245,7 +239,6 @@
   height: 4px;
   left: 445px;
   top: 1613px;
-
   background: #5a9dea;
   border-radius: 2px;
 }
@@ -262,7 +255,6 @@
   height: 4.76px;
   left: 926px;
   top: 2123px;
-
   background: #c9cdd1;
 }
 .parte-dos {
@@ -284,7 +276,7 @@
   display: flex;
   align-items: flex-end;
   color: #383838;
-  font-family: SF UI Display;
+  font-family: "SF UI Display";
 }
 .pa-2-2 {
   position: absolute;
@@ -299,7 +291,7 @@
   display: flex;
   align-items: center;
   color: #848484;
-  font-family: SF UI Display;
+  font-family: "SF UI Display";
 }
 .pa-2-3 {
   position: absolute;
@@ -314,7 +306,7 @@
   display: flex;
   align-items: center;
   color: #848484;
-  font-family: SF UI Display;
+  font-family: "SF UI Display";
 }
 .bo-2-1 {
   position: absolute;
@@ -326,7 +318,7 @@
   border: 1px solid #5a9dea;
   box-sizing: border-box;
   border-radius: 5px;
-  font-family: SF UI Display;
+  font-family: "SF UI Display";
 }
 .bo-2-2 {
   position: absolute;
@@ -337,7 +329,7 @@
   border: 1px solid #5a9dea;
   box-sizing: border-box;
   border-radius: 5px;
-  font-family: SF UI Display;
+  font-family: "SF UI Display";
 }
 .bo-2-1-co {
   position: absolute;
@@ -353,7 +345,7 @@
   align-items: flex-end;
   color: #ffffff;
   text-decoration: auto;
-  font-family: SF UI Display;
+  font-family: "SF UI Display";
 }
 .bo-2-2-co {
   position: absolute;
@@ -369,9 +361,8 @@
   align-items: flex-end;
   color: #5a9dea;
   text-decoration: auto;
-  font-family: SF UI Display;
+  font-family: "SF UI Display";
 }
-
 .alien {
   width: 323px;
   height: 250px;
@@ -380,7 +371,6 @@
   right: 0px;
   left: 1110px;
 }
-
 .line {
   position: absolute;
   width: 1205px;
@@ -416,7 +406,7 @@
   display: flex;
   align-items: flex-end;
   color: #ffffff;
-  font-family: SF UI Display;
+  font-family: "SF UI Display";
   text-decoration: none;
 }
 #link-b {
@@ -425,8 +415,7 @@
   height: 26px;
   left: 350px;
   top: 49px;
-
-  font-family: SF UI Display;
+  font-family: "SF UI Display";
   font-style: normal;
   font-weight: 500;
   font-size: 22px;
@@ -450,9 +439,8 @@
   align-items: flex-end;
   justify-content: center;
   color: #ffffff;
-  font-family: SF UI Display;
+  font-family: "SF UI Display";
 }
-
 #link-d {
   position: absolute;
   width: 52px;
@@ -468,7 +456,6 @@
   color: #ffffff;
   font-family: "SF UI Display";
 }
-
 #link-e {
   position: absolute;
   width: 60px;
@@ -484,7 +471,6 @@
   color: #ffffff;
   font-family: "SF UI Display";
 }
-
 #link-f {
   position: absolute;
   width: 78px;
@@ -498,9 +484,8 @@
   display: flex;
   align-items: flex-end;
   color: #ffffff;
-  font-family: SF UI Display;
+  font-family: "SF UI Display";
 }
-
 .pa-uno-uno {
   position: absolute;
   width: 740px;
@@ -541,7 +526,6 @@
   display: flex;
   background-color: #5ca1f1;
 }
-
 .parte-uno {
   background-color: #5ca1f1;
   width: 1702px;
@@ -582,9 +566,7 @@
   line-height: 21px;
   display: flex;
   align-items: flex-end;
-
   color: #ffffff;
-
   mix-blend-mode: normal;
   opacity: 0.8;
 }
@@ -608,7 +590,7 @@
   display: flex;
   align-items: flex-end;
   color: #ffffff;
-  font-family: SF UI Display;
+  font-family: "SF UI Display";
   text-decoration: none;
 }
 #link-b2 {
@@ -617,15 +599,13 @@
   height: 26px;
   left: 350px;
   top: 49px;
-
-  font-family: SF UI Display;
+  font-family: "SF UI Display";
   font-style: normal;
   font-weight: 500;
   font-size: 22px;
   line-height: 26px;
   display: flex;
   align-items: flex-end;
-
   color: #ffffff;
 }
 #link-c2 {
@@ -644,7 +624,6 @@
   color: #ffffff;
   font-family: "SF UI Display";
 }
-
 #link-d2 {
   position: absolute;
   width: 52px;
@@ -658,9 +637,8 @@
   display: flex;
   align-items: flex-end;
   color: #ffffff;
-  font-family: SF UI Display;
+  font-family: "SF UI Display";
 }
-
 #link-e2 {
   position: absolute;
   width: 60px;
@@ -674,9 +652,8 @@
   display: flex;
   align-items: flex-end;
   color: #ffffff;
-  font-family: SF UI Display;
+  font-family: "SF UI Display";
 }
-
 #link-f2 {
   position: absolute;
   width: 78px;
@@ -721,7 +698,6 @@
   opacity: 0.2;
   border: 1px solid #ffffff;
 }
-
 .main-nav {
   list-style: none;
 }
@@ -762,7 +738,6 @@
   font-weight: 700;
   line-height: 31px;
 }
-
 .foot-2-diagonal {
   width: 7px;
   height: 26px;
@@ -772,7 +747,6 @@
   font-weight: 500;
   line-height: 26px;
 }
-
 .foot-3 {
   width: 203px;
   height: 21px;
@@ -791,33 +765,28 @@
   width: 960.89px;
   height: 448px;
 }
-
 .mascara-2 {
   opacity: 0.1;
   width: 960.89px;
   height: 448px;
   background: 0px;
 }
-
 .boton-play {
   width: 83px;
   height: 83px;
 }
-
 .ovalo3 {
   width: 83px;
   height: 83px;
   background: #ffffff;
   box-shadow: 1px 21px 17px rgba(0, 0, 0, 0.3);
 }
-
 .triangulo-play {
   width: 24px;
   height: 19px;
   background: #5a9dea;
   transform: rotate(90.00008deg);
 }
-
 @font-face {
   font-family: "SF UI Display Ultralight";
   font-style: normal;
@@ -825,7 +794,6 @@
   src: local("SF UI Display Ultralight"),
     url("sf-ui-display-ultralight-58646b19bf205.woff") format("woff");
 }
-
 @font-face {
   font-family: "SF UI Display Thin";
   font-style: normal;
@@ -833,7 +801,6 @@
   src: local("SF UI Display Thin"),
     url("sf-ui-display-thin-58646e9b26e8b.woff") format("woff");
 }
-
 @font-face {
   font-family: "SF UI Display Light";
   font-style: normal;
@@ -841,7 +808,6 @@
   src: local("SF UI Display Light"),
     url("sf-ui-display-light-58646b33e0551.woff") format("woff");
 }
-
 @font-face {
   font-family: "SF UI Display Medium";
   font-style: normal;
@@ -849,7 +815,6 @@
   src: local("SF UI Display Medium"),
     url("sf-ui-display-medium-58646be638f96.woff") format("woff");
 }
-
 @font-face {
   font-family: "SF UI Display Semibold";
   font-style: normal;
@@ -857,7 +822,6 @@
   src: local("SF UI Display Semibold"),
     url("sf-ui-display-semibold-58646eddcae92.woff") format("woff");
 }
-
 @font-face {
   font-family: "SF UI Display Bold";
   font-style: normal;
@@ -865,7 +829,6 @@
   src: local("SF UI Display Bold"),
     url("sf-ui-display-bold-58646a511e3d9.woff") format("woff");
 }
-
 @font-face {
   font-family: "SF UI Display Heavy";
   font-style: normal;
@@ -873,7 +836,6 @@
   src: local("SF UI Display Heavy"),
     url("sf-ui-display-heavy-586470160b9e5.woff") format("woff");
 }
-
 @font-face {
   font-family: "SF UI Display Black";
   font-style: normal;
